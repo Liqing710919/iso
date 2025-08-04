@@ -1,7 +1,8 @@
 🕘️更新时间,#genre#
-2025-08-04 06:25:48,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-08-04 18:30:35,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 🕘️更新时间,#genre#
+2025-08-04 06:25:48,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 2025-08-03 18:27:08,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 2025-08-03 06:25:23,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 2025-08-02 18:29:10,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
