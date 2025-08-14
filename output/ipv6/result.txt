@@ -1,7 +1,8 @@
 🕘️更新时间,#genre#
-2025-08-14 06:25:15,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-08-14 18:28:00,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 🕘️更新时间,#genre#
+2025-08-14 06:25:15,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 2025-08-13 18:29:42,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 2025-08-13 06:23:07,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 2025-08-12 18:29:12,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -1644,6 +1645,7 @@ CETV-4,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 山西经济,https://live.lalifeier.eu.org/sxrtv/sxjj.m3u8?t=1746307365&key=9efd994033ee8bd840c01f930811f94a
 怀仁综合,https://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc-1.m3u8
 怀仁综合,http://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc.m3u8?zshanxd
+怀仁综合,http://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc.m3u8?zshanxd,
 武乡新闻综合,https://stream1.freetv.fun/wu-xiang-xin-wen-zong-he-1.m3u8
 武乡新闻综合,https://stream1.freetv.fun/wu-xiang-xin-wen-zong-he-2.m3u8
 武乡新闻综合,https://stream1.freetv.fun/wu-xiang-xin-wen-zong-he-4.m3u8
