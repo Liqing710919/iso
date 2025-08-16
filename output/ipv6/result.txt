@@ -1,7 +1,8 @@
 🕘️更新时间,#genre#
-2025-08-16 06:26:11,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-08-16 18:24:37,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 🕘️更新时间,#genre#
+2025-08-16 06:26:11,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 2025-08-15 18:26:22,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 2025-08-15 06:24:10,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 2025-08-14 18:28:00,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -217,10 +218,12 @@ CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=04374bdde2e42237981
 CETV-1,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 CETV-1,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8
 CETV-1,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226673/1.m3u8
+CETV-1,https://cc06.tv12.xyz/23.m3u8
 CETV-2,http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 CETV-2,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226537/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7AxXs4eTU2oiWrhopr9sHw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNxsM0Bor098BJglrhfEQTl%2CEND
 CETV-2,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226718/1.m3u8
 CETV-2,https://mursor.ottiptv.cc/migu/923287211.m3u8?migutoken=58dbb8ad5ad539c0da365c819615222219346bbe2fa8d6e4231da9ad89c4faf34adbae451bebfa99d9b8c9eda32e04a0066231dfd40496610efa4bee9ad5f110baee36b6f4098850d6b507505f
+CETV-2,https://cc06.tv12.xyz/24.m3u8
 CETV-3,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001309/index.m3u8
 CETV-3,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226577/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EhE2Z89HKgsQOlN9opVn1iw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNN03yUnk4zBVk1bynPPL3hZ%2CEND
 CETV-3,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226722/1.m3u8
@@ -854,6 +857,7 @@ CETV-4,https://mursor.ottiptv.cc/migu/923287339.m3u8?migutoken=165b545b4402eaba6
 上虞文化影院,https://stream1.freetv.fun/shang-yu-wen-hua-ying-yuan-1.m3u8
 
 ☘️北京频道,#genre#
+北京新闻,https://brtv-radiolive.rbc.cn/alive/fm945.m3u8
 北京新闻,https://ls.qingting.fm/live/339/64k.m3u8
 北京新闻,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226437/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EncK5uEAdYwWMsf8WJWI1mQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO_LSIQh_h2P54Cz-MqgJqC%2CEND
 北京新闻,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226437/1.m3u8
@@ -1651,12 +1655,16 @@ CETV-4,https://mursor.ottiptv.cc/migu/923287339.m3u8?migutoken=165b545b4402eaba6
 山西社会与法治,https://live.lalifeier.eu.org/sxrtv/sxshfz.m3u8?t=1746393735&key=cf4f8ab07efd070291584465074e9386
 山西经济,https://live.lalifeier.eu.org/sxrtv/sxjj.m3u8?t=1745796321&key=f20ee9d210e6bb63a4a7d65e67bdec2b
 山西经济,https://live.lalifeier.eu.org/sxrtv/sxjj.m3u8?t=1746307365&key=9efd994033ee8bd840c01f930811f94a
+怀仁综合,http://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc.m3u8?zshanxd
+怀仁综合,https://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc-1.m3u8
 武乡新闻综合,https://stream1.freetv.fun/wu-xiang-xin-wen-zong-he-1.m3u8
 武乡新闻综合,https://stream1.freetv.fun/wu-xiang-xin-wen-zong-he-2.m3u8
 武乡新闻综合,https://stream1.freetv.fun/wu-xiang-xin-wen-zong-he-4.m3u8
 武乡新闻综合,https://stream1.freetv.fun/wu-xiang-xin-wen-zong-he-5.m3u8
+汾西综合,https://qmmqvzoz.live.sxmty.com/live/hls/f24f8a390c084386a564074c9260100c/be3fdf07606145739ab2c4b80fe0136a.m3u8?zshanxd
 运城科技教育,https://stream1.freetv.fun/yun-cheng-ke-ji-jiao-yu-1.m3u8
 运城科技教育,https://stream1.freetv.fun/yun-cheng-ke-ji-jiao-yu-2.m3u8
+长子综合,https://83awgyp5.live.sxmty.com/live/hls/6f6f4b36f9bd42628b718b595ba507ed/724b7e8907a8414d873eb2a2f69bfa18.m3u8?zshanxd
 
 ☘️安徽频道,#genre#
 安徽经济生活,https://live.lalifeier.eu.org/ahtv/ahjjsh.m3u8?t=1745774515&key=a93a5e1794618b8f0038e5d4206cb748
